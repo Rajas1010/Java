@@ -1,0 +1,10 @@
+google.com,172.16.16.58
+yahoo.com,185.17.58.95
+youtube.com,188.15.62.15
+facebook.com,198.25.65.65
+github.com,189.25.62.65
+stackoverflow.com,158.56.58.54
+edureka.co,170.25.58.56
+geeksforgeeks.org,190.26.32.21
+javatpoint.com,195.24.24.21
+ibm.com,200.22.22.20

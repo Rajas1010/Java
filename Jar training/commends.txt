@@ -1,0 +1,11 @@
+to create jar
+	jar -cfvm jarname.jar manifest.txt mainClassName.class
+
+to run(jar file alone)
+	java -jar jarname.jar
+
+to compile javaFile with JarFile
+	javac -cp JarName.jar;. FileName.java
+
+to run javaFile with JarFile
+	java -cp JarName.jar;. className

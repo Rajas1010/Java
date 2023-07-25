@@ -1,0 +1,1 @@
+java -cp sqlite.jar; LapShowRoom
